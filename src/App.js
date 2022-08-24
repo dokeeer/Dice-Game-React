@@ -6,7 +6,11 @@ import ReactConfetti from "react-confetti";
 function App() {
 
     const [currentRecord, setCurrentRecord] = React.useState(0)
-    const [topRecord, setTopRecord] = React.useState(localStorage.getItem('top'))
+    const [topRecord, setTopRecord] = React.useState(
+        localStorage.getItem('top')?
+            localStorage.getItem('top')
+            : 0
+    )
     console.log(topRecord)
     function getRandomInt(max) {
         return Math.floor(Math.random() * max);
