@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Dice-Game-React/static/css/main.2e8eb7f3.css",
+    "main.css": "/Dice-Game-React/static/css/main.9ad5f38a.css",
     "main.js": "/Dice-Game-React/static/js/main.028a7b25.js",
     "index.html": "/Dice-Game-React/index.html",
-    "main.2e8eb7f3.css.map": "/Dice-Game-React/static/css/main.2e8eb7f3.css.map",
+    "main.9ad5f38a.css.map": "/Dice-Game-React/static/css/main.9ad5f38a.css.map",
     "main.028a7b25.js.map": "/Dice-Game-React/static/js/main.028a7b25.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e8eb7f3.css",
+    "static/css/main.9ad5f38a.css",
     "static/js/main.028a7b25.js"
   ]
 }
